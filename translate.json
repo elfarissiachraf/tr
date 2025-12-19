@@ -22,8 +22,9 @@
     "cdc0016": "E-mail",
     "cdc0017": "Confirmation de l’e-mail",
     "cdc0018": "Numéro de téléphone",
-    "cdc0019": "J’accepte de recevoir des communications commerciales de la part RMA",
-    "cdc0020": "J’ai lu et j’accepte les Conditions Générales d’Utilisation",
+    "cdc0019": "J'accepte de recevoir les offres commerciales RMA",
+    "cdc0020": "J’ai lu et j’accepte",
+    "cdc00201": "les Conditions Générales d’Utilisation",
     "cdc0021": "Valider",
     "cdc0022": "Vérification de votre numéro de téléphone",
     "cdc0023": "Veuillez saisir le code qui vous a été envoyé par SMS au XX XX XX XX XX.",
@@ -62,7 +63,6 @@
     "cdc0056": "Créer mon compte",
     "cdc0057": "Les mots de passe ne correspondent pas.",
     "cdc0058": "Votre compte a été créé avec succès !",
-    "cdc0059": NaN,
     "cdc0060": "Vérification de votre adresse e-mail",
     "cdc0061": "Un lien d’activation a été envoyé à votre adresse e-mail. Cliquez dessus pour activer votre compte.",
     "cdc0062": "Si vous ne l’avez pas reçu, vous pouvez demander un nouveau lien en cliquant ici.",
@@ -129,7 +129,7 @@
     "acc0008": "Nom",
     "acc0009": "Date de naissance",
     "acc0010": "Ville",
-    "acc0011": "Numéro de téléphone",
+    "acc0011": "N° de téléphone",
     "acc0012": "Adresse e-mail",
     "acc0013": "Adresse du domicile",
     "acc0014": "Responsabilité civile",
@@ -444,6 +444,14 @@
     "pop0003": "Continuer",
     "pop0004": "Annuler",
 
+    "val0020": "Le nom doit contenir au moins 3 caractères",
+    "val0021": "Le prénom doit contenir au moins 3 caractères",
+    "val0022": "Le numéro de CIN est requis",
+    "val0023": "Merci de renseigner une adresse mail valide",
+    "val0024": "Merci de renseigner un numéro de téléphone valide",
+    "val0025": "Vous devez accepter les conditions générales d'utilisation",
+    "val0026": "Les emails ne correspondent pas",
+
     "bio0001": "Connexion biométrique requise",
     "bio0002": "Authentification biométrique",
     "bio0003": "Face ID",
@@ -461,7 +469,9 @@
 
     "btn0001": "Connexion",
     "btn0002": "Créer un compte",
-    "btn0003": "Mot de passe oublié ?"
+    "btn0003": "Mot de passe oublié ?",
+
+    "btn0004": "Suivant"
   },
   "ar": {
     "val0001": "يجب إدخال البريد الإلكتروني",
@@ -471,6 +481,14 @@
     "pop0002": "يرجى تحديث رقمك للمتابعة",
     "pop0003": "متابعة",
     "pop0004": "إلغاء",
+
+    "val0020": "يجب أن يحتوي الاسم على 3 أحرف على الأقل",
+    "val0021": "يجب أن يحتوي اللقب على 3 أحرف على الأقل",
+    "val0022": "رقم CIN مطلوب",
+    "val0023": "يرجى إدخال بريد إلكتروني صالح",
+    "val0024": "يرجى إدخال رقم هاتف صالح",
+    "val0025": "يجب الموافقة على الشروط والأحكام",
+    "val0026": "البريد الإلكتروني غير متطابق",
 
     "bio0001": "مطلوب تسجيل الدخول البيومتري",
     "bio0002": "المصادقة البيومترية",
@@ -490,6 +508,8 @@
     "btn0001": "تسجيل الدخول",
     "btn0002": "إنشاء حساب",
     "btn0003": "نسيت كلمة المرور؟",
+
+    "btn0004": "التالي",
 
     "omb0001": "فضاء تأمين السياراتدبّر تأمين سيارتك بكل استقلالية: الاشتراك، التجديد، التصريح وتتبع الحوادث…",
     "omb0002": "فضاء الصحة دبّر تأمينك الصحي بكل سهولة : متابعة التعويضات، الوثائق المهمة، لائحة المؤسسات الصحية المتعاقدة…",
@@ -514,7 +534,8 @@
     "cdc0017": "تأكيد البريد الإلكتروني",
     "cdc0018": "رقم الهاتف",
     "cdc0019": "أوافق على تلقي الرسائل الإعلامية والعروض التجارية من طرف RMA",
-    "cdc0020": "قرأت وأوافق على الشروط العامة للاستخدام.",
+    "cdc0020": "لقد قرأت وأوافق",
+    "cdc00201": "على شروط الاستخدام العامة",
     "cdc0021": "تأكيد",
     "cdc0022": "تأكيد رقم الهاتف",
     "cdc0023": "يرجى إدخال الرمز الذي تم إرساله إليك عبر رسالة نصية على الرقم",
@@ -553,7 +574,7 @@
     "cdc0056": "إنشاء حسابي",
     "cdc0057": "كلمات المرور غير متطابقتين",
     "cdc0058": "تم إنشاء حسابك بنجاح!",
-    "cdc0059": NaN,
+
     "cdc0060": "تأكيد البريد الإلكتروني",
     "cdc0061": "تم إرسال رابط تفعيل إلى بريدك الإلكتروني. انقر عليه لتفعيل حسابك.",
     "cdc0062": "إذا لم يصلك الرابط، يمكنك طلب رابط جديد بالنقر هنا.",
