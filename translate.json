@@ -574,9 +574,41 @@
     "user_cin": "N° de CIN",
     "user_email": "Adresse e-mail",
     "user_phone": "N° de téléphone",
-    "cgu_title": "Mentions légales – Application mobile RMA"
+    "cgu_title": "Mentions légales – Application mobile RMA",
+
+    "menu_0001": "Suivre mon sinistre",
+    "menu_0002": "Renouveler mon contrat",
+    "menu_0003": "Consulter mon contrat",
+    "menu_0004": "Souscrire un nouveau contrat",
+
+    "menu_0005": "Souscription à un nouveau contrat",
+    "menu_0006": "Souscrire un nouveau contrat automobile, en toute simplicité",
+    "menu_0007": "Souscrire",
+
+    "menu_0008": "Trouver les documents utiles",
+    "menu_0009": "Établissements de santé",
+
+    "menu_0010": "Allo RMA",
+    "menu_0011": "Nous contacter",
+    "menu_0012": "CGU"
   },
   "ar": {
+    "menu_0001": "تتبع ملف الحادث",
+    "menu_0002": "تجديد عقدي",
+    "menu_0003": "الاطلاع على عقدي",
+    "menu_0004": "الاكتتاب في عقد جديد",
+
+    "menu_0005": "الاكتتاب في عقد جديد",
+    "menu_0006": "الاكتتاب في عقد تأمين سيارة جديد بكل سهولة",
+    "menu_0007": "اكتتب",
+
+    "menu_0008": "العثور على الوثائق المفيدة",
+    "menu_0009": "مؤسسات الرعاية الصحية",
+
+    "menu_0010": "ألو RMA",
+    "menu_0011": "اتصل بنا",
+    "menu_0012": "الشروط العامة للاستخدام",
+
     "cgu_title": "الإشعارات القانونية – تطبيق RMA للهاتف المحمول",
     "user_name": "الاسم",
     "user_surname": "اللقب",
