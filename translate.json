@@ -553,9 +553,37 @@
     "profile_0015": "Veuillez saisir votre mot de passe pour confirmer la suppression du compte",
     "profile_0016": "Confimer",
     "profile_0017": "CGU",
-    "settings_0001": "Mode sombre"
+    "settings_0001": "Mode sombre",
+
+    "changemdp_0001": "Changer de mot de passe",
+    "changemdp_0002": "Le mot de passe actuel est requis.",
+    "changemdp_0003": "Le nouveau mot de passe est requis.",
+    "changemdp_0004": "La confirmation du nouveau mot de passe est requise.",
+    "changemdp_0005": "Le mot de passe est trop faible.",
+    "changemdp_0006": "Les mots de passe ne correspondent pas.",
+    "changemdp_0007": "Le nouveau mot de passe doit être différent du mot de passe actuel.",
+
+    "password_strength_0001": "Un caractère minuscule",
+    "password_strength_0002": "Un caractère majuscule",
+    "password_strength_0003": "Un caractère spécial",
+    "password_strength_0004": "Un Chiffre",
+    "password_strength_0005": "6 caractères minimum"
   },
   "ar": {
+    "password_strength_0001": "حرف صغير",
+    "password_strength_0002": "حرف كبير",
+    "password_strength_0003": "رمز خاص",
+    "password_strength_0004": "رقم",
+    "password_strength_0005": "6 أحرف على الأقل",
+
+    "changemdp_0001": "تغيير كلمة المرور",
+    "changemdp_0002": "كلمة المرور الحالية مطلوبة.",
+    "changemdp_0003": "كلمة المرور الجديدة مطلوبة.",
+    "changemdp_0004": "تأكيد كلمة المرور الجديدة مطلوب.",
+    "changemdp_0005": "كلمة المرور ضعيفة جدًا.",
+    "changemdp_0006": "كلمتا المرور غير متطابقتين.",
+    "changemdp_0007": "يجب أن تكون كلمة المرور الجديدة مختلفة عن كلمة المرور الحالية.",
+
     "settings_0001": "الوضع الداكن",
     "profile_0017": "الشروط العامة للاستخدام",
     "profile_0001": "المصادقة البيومترية",
