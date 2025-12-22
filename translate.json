@@ -525,9 +525,13 @@
     "faq_0003": "Déclaration & Suivi de sinistres",
     "faq_0004": "Réseau & Assistance",
     "faq_0005": "Sécurité & Confidentialité",
-    "faq_0006": "Thématique"
+    "faq_0006": "Thématique",
+
+    "home_0001": "Bonjour"
   },
   "ar": {
+    "home_0001": "مرحبا",
+
     "faq_0001": "الوصول وتسجيل الدخول",
     "faq_0002": "إدارة عقودي",
     "faq_0003": "الإبلاغ عن المطالبات ومتابعتها",
