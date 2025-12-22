@@ -567,9 +567,23 @@
     "password_strength_0002": "Un caractère majuscule",
     "password_strength_0003": "Un caractère spécial",
     "password_strength_0004": "Un Chiffre",
-    "password_strength_0005": "6 caractères minimum"
+    "password_strength_0005": "6 caractères minimum",
+
+    "user_name": "Nom",
+    "user_surname": "Prénom",
+    "user_cin": "N° de CIN",
+    "user_email": "Adresse e-mail",
+    "user_phone": "N° de téléphone",
+    "cgu_title": "Mentions légales – Application mobile RMA"
   },
   "ar": {
+    "cgu_title": "الإشعارات القانونية – تطبيق RMA للهاتف المحمول",
+    "user_name": "الاسم",
+    "user_surname": "اللقب",
+    "user_cin": "رقم بطاقة التعريف",
+    "user_email": "البريد الإلكتروني",
+    "user_phone": "رقم الهاتف",
+
     "password_strength_0001": "حرف صغير",
     "password_strength_0002": "حرف كبير",
     "password_strength_0003": "رمز خاص",
