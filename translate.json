@@ -527,9 +527,17 @@
     "faq_0005": "Sécurité & Confidentialité",
     "faq_0006": "Thématique",
 
-    "home_0001": "Bonjour"
+    "home_0001": "Bonjour",
+
+    "offer_0001": "Un point de contact unique pour une gestion simplifiée",
+    "offer_0002": "Protégez votre véhicule avec une assurance automobile adaptée à votre besoin",
+    "offer_0003": "Planifiez une retraite sereine et confortable grâce à notre solution d'épargne Retraite Active"
   },
   "ar": {
+    "offer_0001": "نقطة اتصال واحدة لإدارة مبسطة",
+    "offer_0002": "احمِ مركبتك بتأمين سيارة مناسب لاحتياجاتك",
+    "offer_0003": "خطط لتقاعد هادئ ومريح بفضل حل التوفير لدينا التقاعد النشط",
+
     "home_0001": "مرحبا",
 
     "faq_0001": "الوصول وتسجيل الدخول",
