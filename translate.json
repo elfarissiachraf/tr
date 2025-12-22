@@ -531,9 +531,17 @@
 
     "offer_0001": "Un point de contact unique pour une gestion simplifiée",
     "offer_0002": "Protégez votre véhicule avec une assurance automobile adaptée à votre besoin",
-    "offer_0003": "Planifiez une retraite sereine et confortable grâce à notre solution d'épargne Retraite Active"
+    "offer_0003": "Planifiez une retraite sereine et confortable grâce à notre solution d'épargne Retraite Active",
+
+    "tabbar_0001": "Accueil",
+    "tabbar_0002": "Réseau",
+    "tabbar_0003": "Allo RMA"
   },
   "ar": {
+    "tabbar_0001": "الرئيسية",
+    "tabbar_0002": "الشبكة",
+    "tabbar_0003": "ألو RMA",
+
     "offer_0001": "نقطة اتصال واحدة لإدارة مبسطة",
     "offer_0002": "احمِ مركبتك بتأمين سيارة مناسب لاحتياجاتك",
     "offer_0003": "خطط لتقاعد هادئ ومريح بفضل حل التوفير لدينا التقاعد النشط",
