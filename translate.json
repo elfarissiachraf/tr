@@ -590,9 +590,40 @@
 
     "menu_0010": "Allo RMA",
     "menu_0011": "Nous contacter",
-    "menu_0012": "CGU"
+    "menu_0012": "CGU",
+    "auto_0001": "Informations du contrat Automobile",
+    "auto_0002": "Saisir les informations de votre contrat automobile",
+
+    "auto_0003": "N° de police",
+    "auto_0004": "N° de CIN",
+
+    "auto_0005": "Le N° de police est requis",
+    "auto_0006": "Le N° de police invalide",
+    "auto_0007": "Le N° de CIN est requis",
+    "auto_0008": "Le N° de CIN invalide",
+
+    "auto_0009": "Enregistrer",
+    "auto_0010": "Terminer",
+
+    "auto_0011": "Votre contrat N° {{number}} a été ajouté avec succès."
   },
   "ar": {
+    "auto_0001": "معلومات عقد السيارة",
+    "auto_0002": "أدخل معلومات عقد التأمين على السيارة",
+
+    "auto_0003": "رقم العقد",
+    "auto_0004": "رقم بطاقة التعريف الوطنية",
+
+    "auto_0005": "رقم العقد مطلوب",
+    "auto_0006": "رقم العقد غير صالح",
+    "auto_0007": "رقم بطاقة التعريف مطلوب",
+    "auto_0008": "رقم بطاقة التعريف غير صالح",
+
+    "auto_0009": "حفظ",
+    "auto_0010": "إنهاء",
+
+    "auto_0011": "تمت إضافة العقد رقم {{number}} بنجاح",
+
     "menu_0001": "تتبع ملف الحادث",
     "menu_0002": "تجديد عقدي",
     "menu_0003": "الاطلاع على عقدي",
