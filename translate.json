@@ -642,9 +642,64 @@
 
     "epargne_0400": "Consulter ma situation",
 
-    "profile_0500": "Informations personnelles"
+    "profile_0500": "Informations personnelles",
+    "auto_0600": "Retrouvez le détail de votre contrat",
+
+    "auto_0601": "Contrat",
+    "auto_0602": "Garanties",
+    "auto_0603": "Véhicule",
+    "auto_0604": "Conducteur",
+    "auto_0605": "Souscripteur",
+    "auto_0606": "Intermédiaire",
+
+    "common_0001": "Aucune information trouvée",
+    "auto_0700": "Historique de vos sinistres",
+    "auto_0701": "Aucune information trouvée",
+    "auto_0702": "Vous n'avez déclaré aucun sinistre pour le moment",
+    "auto_0703": "Revenir",
+
+    "auto_0704": "Date du sinistre",
+    "auto_0705": "Date de déclaration",
+    "auto_0706": "Nature du sinistre",
+    "auto_0707": "Règlement",
+
+    "auto_0708": "Mise à disposition",
+    "auto_0709": "Chèque",
+
+    "auto_0710": "Suivi de mon sinistre",
+    "auto_0711": "Accédez au suivi de votre sinistre en quelques clics.",
+    "auto_0712": "Suivre mon sinistre",
+    "auto_0713": "Suivi de sinistre"
   },
   "ar": {
+    "auto_0700": "سجل الحوادث الخاصة بك",
+    "auto_0701": "لم يتم العثور على أي معلومات",
+    "auto_0702": "لم تقم بالتصريح بأي حادث إلى حد الآن",
+    "auto_0703": "رجوع",
+
+    "auto_0704": "تاريخ الحادث",
+    "auto_0705": "تاريخ التصريح",
+    "auto_0706": "نوع الحادث",
+    "auto_0707": "طريقة التعويض",
+
+    "auto_0708": "وضع رهن الإشارة",
+    "auto_0709": "شيك",
+
+    "auto_0710": "تتبع الحادث",
+    "auto_0711": "يمكنك تتبع حالة الحادث الخاص بك بكل سهولة.",
+    "auto_0712": "تتبع الحادث",
+    "auto_0713": "تتبع الحادث",
+    "auto_0600": "اطّلع على تفاصيل عقدك",
+
+    "auto_0601": "العقد",
+    "auto_0602": "الضمانات",
+    "auto_0603": "المركبة",
+    "auto_0604": "السائق",
+    "auto_0605": "المكتتب",
+    "auto_0606": "الوسيط",
+
+    "common_0001": "لم يتم العثور على أي معلومات",
+
     "auto_0200": "الاطلاع على عقدي",
     "auto_0201": "التصريح بالحادث",
     "auto_0202": "تتبع الحادث",
