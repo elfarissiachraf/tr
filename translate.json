@@ -701,9 +701,22 @@
     "error_1008": "Se reconnecter",
     "error_1009": "Erreur",
     "error_1010": "Une erreur est survenue",
-    "error_1011": "Fermer"
+    "error_1011": "Fermer",
+    "docs_0900": "Retrouvez les documents pré-imprimés ci-dessous",
+    "docs_0901": "Feuille de soin",
+    "docs_0902": "Feuille de soin dentaire",
+    "docs_0903": "Demande de prise en charge",
+    "docs_0904": "Demande de prise en charge clinique",
+    "docs_0905": "Demande d'entente préalable"
   },
   "ar": {
+    "docs_0900": "تجدون الوثائق المعدة مسبقاً أدناه",
+    "docs_0901": "استمارة العلاج",
+    "docs_0902": "استمارة علاج الأسنان",
+    "docs_0903": "طلب تغطية الرعاية",
+    "docs_0904": "طلب تغطية الرعاية السريرية",
+    "docs_0905": "طلب الموافقة المسبقة",
+
     "error_1000": "الخدمة غير متاحة",
     "error_1001": "خدمتنا غير متاحة مؤقتًا. نحن نعمل على إعادة الخدمة في أسرع وقت ممكن. شكرًا على صبرك!",
     "error_1002": "العودة لاحقًا",
