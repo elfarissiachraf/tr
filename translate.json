@@ -201,7 +201,7 @@
     "ecc0012": "[+ Ajouter un contrat]",
     "ecc0013": "Total épargne constituée",
     "ecc0014": "Retraite Individuelle",
-    "ecc0015": "[Actif]",
+    "ecc0015": "Actif",
     "ecc0016": "Mes Actions",
     "ecc0017": "Consulter ma situation",
     "ecc0018": "Cas contrat groupe : Identifiez-vous avec votre N° d’adhésion",
@@ -605,9 +605,84 @@
     "auto_0009": "Enregistrer",
     "auto_0010": "Terminer",
 
-    "auto_0011": "Votre contrat N° {{number}} a été ajouté avec succès."
+    "auto_0011": "Votre contrat N° {{number}} a été ajouté avec succès.",
+    "auto_0100": "Veuillez sélectionner un contrat ci-dessous",
+    "auto_0101": "Aucune information trouvée",
+    "auto_0102": "Veuillez contacter votre administrateur pour obtenir un contrat",
+    "auto_0103": "Une erreur est survenue lors de la récupération des contrats",
+
+    "auto_0104": "Déclaration de mon sinistre",
+    "auto_0105": "Déclarez votre sinistre en quelques étapes simples.",
+    "auto_0106": "Déclarer mon sinistre",
+
+    "auto_0107": "Renouvellement de mon contrat",
+    "auto_0108": "Renouvelez facilement votre contrat en ligne, sans déplacement.",
+    "auto_0109": "Renouveler maintenant",
+
+    "auto_0110": "Fermer",
+    "auto_0111": "Contrat N°{{number}}",
+    "auto_0200": "Consulter mon contrat",
+    "auto_0201": "Déclarer mon sinistre",
+    "auto_0202": "Suivre mon sinistre",
+    "auto_0203": "Renouveler mon contrat",
+    "auto_0204": "Renouvellement de mon contrat",
+    "auto_0205": "Renouvelez facilement votre contrat en ligne, sans déplacement.",
+    "auto_0206": "Renouveler maintenant",
+    "auto_0207": "Souscrire un nouveau contrat",
+    "auto_0208": "Souscrire un nouveau contrat automobile, en toute simplicité",
+    "auto_0209": "Souscrire",
+
+    "auto_0210": "Déclaration de mon sinistre",
+    "auto_0211": "Déclarez votre sinistre en quelques étapes simples.",
+
+    "sante_0300": "Suivre mes remboursements",
+    "sante_0301": "Trouver les documents utiles",
+    "sante_0302": "Consulter mon contrat",
+    "sante_0303": "Établissements de santé",
+
+    "epargne_0400": "Consulter ma situation",
+
+    "profile_0500": "Informations personnelles"
   },
   "ar": {
+    "auto_0200": "الاطلاع على عقدي",
+    "auto_0201": "التصريح بالحادث",
+    "auto_0202": "تتبع الحادث",
+    "auto_0203": "تجديد عقدي",
+    "auto_0204": "تجديد عقدي التأميني",
+    "auto_0205": "جدد عقدك بسهولة عبر الإنترنت دون الحاجة إلى التنقل.",
+    "auto_0206": "جدد الآن",
+    "auto_0207": "الاكتتاب في عقد جديد",
+    "auto_0208": "الاكتتاب في عقد تأمين سيارات جديد بكل سهولة",
+    "auto_0209": "اكتتب",
+
+    "auto_0210": "التصريح بالحادث",
+    "auto_0211": "صرّح بالحادث في بضع خطوات بسيطة.",
+
+    "sante_0300": "تتبع التعويضات",
+    "sante_0301": "العثور على الوثائق المفيدة",
+    "sante_0302": "الاطلاع على عقدي",
+    "sante_0303": "مؤسسات الرعاية الصحية",
+
+    "epargne_0400": "الاطلاع على وضعيتي",
+
+    "profile_0500": "المعلومات الشخصية",
+
+    "auto_0100": "يرجى اختيار عقد من القائمة أدناه",
+    "auto_0101": "لا توجد معلومات",
+    "auto_0102": "يرجى الاتصال بالإدارة للحصول على عقد",
+    "auto_0103": "حدث خطأ أثناء تحميل العقود",
+
+    "auto_0104": "التصريح بالحادث",
+    "auto_0105": "صرّح بحادثك عبر خطوات بسيطة وسهلة.",
+    "auto_0106": "التصريح بالحادث",
+
+    "auto_0107": "تجديد العقد",
+    "auto_0108": "جدّد عقدك بسهولة عبر الإنترنت دون الحاجة إلى التنقل.",
+    "auto_0109": "تجديد الآن",
+
+    "auto_0110": "إغلاق",
+    "auto_0111": "العقد رقم {{number}}",
     "auto_0001": "معلومات عقد السيارة",
     "auto_0002": "أدخل معلومات عقد التأمين على السيارة",
 
