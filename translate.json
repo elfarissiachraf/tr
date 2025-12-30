@@ -763,9 +763,45 @@
     "contact_1422": "Auto",
     "contact_1423": "Santé",
     "contact_1424": "Épargne",
-    "contact_1425": "Autres"
+    "contact_1425": "Autres",
+
+    "garages_3001": "Localisez facilement le garage agréé le plus proche de chez vous",
+    "garages_3002": "Ville",
+    "garages_3003": "Sélectionnez une ville",
+    "garages_3004": "Rechercher",
+
+    "etab_3101": "Trouvez un établissement de santé près de chez vous",
+    "etab_3102": "Ville",
+    "etab_3103": "Sélectionnez une ville",
+    "etab_3104": "Spécialité",
+    "etab_3105": "Sélectionnez une spécialité",
+    "etab_3106": "Prestataire",
+    "etab_3107": "Sélectionnez un prestataire",
+    "etab_3108": "Rechercher",
+
+    "reseau_3201": "Agences RMA",
+    "reseau_3202": "Garages agréés",
+    "reseau_3203": "Établissements de santé"
   },
   "ar": {
+    "reseau_3201": "وكالات RMA",
+    "reseau_3202": "المرائب المعتمدة",
+    "reseau_3203": "المؤسسات الصحية",
+
+    "etab_3101": "اعثر على مؤسسة صحية بالقرب منك",
+    "etab_3102": "المدينة",
+    "etab_3103": "اختر مدينة",
+    "etab_3104": "التخصص",
+    "etab_3105": "اختر تخصصًا",
+    "etab_3106": "مقدم الخدمة",
+    "etab_3107": "اختر مقدم خدمة",
+    "etab_3108": "بحث",
+
+    "garages_3001": "اعثر بسهولة على أقرب مرآب معتمد بالقرب منك",
+    "garages_3002": "المدينة",
+    "garages_3003": "اختر مدينة",
+    "garages_3004": "بحث",
+
     "contact_1400": "هل تحتاج إلى مساعدة؟ - اتصل بنا",
     "contact_1401": "في RMA، نحن دائمًا رهن إشارتكم.",
 
