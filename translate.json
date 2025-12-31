@@ -819,9 +819,20 @@
     "route_5013": "Confirmation N° de téléphone",
     "route_5014": "Démo vidéo",
     "route_5015": "Navigateur intégré",
-    "route_5016": "Aucune connexion Internet"
+    "route_5016": "Aucune connexion Internet",
+    "faq_6001": "Accès",
+    "faq_6002": "Contrat",
+    "faq_6003": "Sinistre",
+    "faq_6004": "Contact",
+    "faq_6005": "Sécurité"
   },
   "ar": {
+    "faq_6001": "الدخول",
+    "faq_6002": "العقد",
+    "faq_6003": "الملفات",
+    "faq_6004": "التواصل",
+    "faq_6005": "الأمان",
+
     "route_5001": "شاشة الخطأ الرئيسية",
     "route_5002": "المقدمة",
     "route_5003": "الصفحة الرئيسية",
