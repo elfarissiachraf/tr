@@ -916,9 +916,21 @@
     "sante_create_1023": "Fermer",
 
     "sante_create_1024": "Votre contrat N° {numPolice} a été ajouté avec succès.",
-    "sante_create_1025": "Terminer"
+    "sante_create_1025": "Terminer",
+
+    "help_5001": "Le numéro de police de votre contrat automobile figure dans la zone indiquée ci-dessous",
+    "help_5002": "Les informations de votre contrat Santé figurent dans les zones indiquées ci-dessous",
+    "help_5003": "Vous pouvez retrouver les informations de votre contrat Épargne au niveau des champs suivants",
+    "help_5004": "Vous pouvez retrouver les informations de votre contrat Épargne au niveau des champs suivants",
+    "help_5005": "Fermer"
   },
   "ar": {
+    "help_5001": "رقم وثيقة عقد التأمين على السيارة يوجد في المنطقة الموضحة أدناه",
+    "help_5002": "معلومات عقد التأمين الصحي الخاصة بك موجودة في المناطق الموضحة أدناه",
+    "help_5003": "يمكنك العثور على معلومات عقد الادخار في الحقول الموضحة أدناه",
+    "help_5004": "يمكنك العثور على معلومات عقد الادخار الجماعي في الحقول الموضحة أدناه",
+    "help_5005": "إغلاق",
+
     "sante_create_1001": "معلومات عقد الصحة",
     "sante_create_1002": "أدخل معلومات عقدك الصحي",
 
