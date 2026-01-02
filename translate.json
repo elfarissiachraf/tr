@@ -678,7 +678,7 @@
     "sante_0804": "Veuillez contacter votre intermédiaire/RH pour finaliser la procédure d'activation.",
     "sante_0805": "Activer l’accès pour finaliser l’enregistrement de votre contrat",
     "sante_0806": "Activer",
-    "sante_0807": "Votre contrat N° {numPolice} a été activé avec succès.",
+    "sante_0807": "Votre contrat N° {{numPolice}} a été activé avec succès.",
     "sante_0808": "Terminer",
     "sante_0809": "Actif",
     "sante_0810": "En attente",
@@ -839,7 +839,7 @@
     "sante_0901": "Attestation de garantie maladie",
     "sante_0902": "Attestation de garantie décès",
     "sante_0910": "Gérer mon contrat",
-    "sante_0911": "Affiliation N° {numAffiliation}",
+    "sante_0911": "Affiliation N° {{numAffiliation}}",
     "sante_0912": "Documents de mon contrat",
     "sante_0913": "Moyen de remboursement",
 
@@ -860,9 +860,9 @@
     "sante_0930": "Retrouvez le suivi de vos remboursements",
     "sante_0931": "Service indisponible",
     "sante_0932": "Notre service est momentanément indisponible. Nous faisons de notre mieux pour le rétablir rapidement. Merci de votre patience !",
-    "sante_0933": "Aucun remboursement trouvé pour l'année {year}",
-    "sante_0934": "Dossier N° {num}",
-    "sante_0935": "Déposé le {date}",
+    "sante_0933": "Aucun remboursement trouvé pour l'année {{year}}",
+    "sante_0934": "Dossier N° {{num}}",
+    "sante_0935": "Déposé le {{date}}",
     "sante_0936": "Montant remboursé :",
 
     "reseau_1100": "Trouvez un établissement de santé près de chez vous",
@@ -878,7 +878,7 @@
     "sante_0821": "Veuillez contacter votre administrateur pour obtenir un contrat",
     "sante_0822": "Veuillez sélectionner un contrat ci-dessous",
     "sante_0823": "Une erreur est survenue lors de la récupération des contrats",
-    "sante_0824": "Contrat N°{num}",
+    "sante_0824": "Contrat N°{{num}}",
     "sante_0825": "Une erreur est survenue lors de la récupération des contrats",
     "sante_0826": "Fermer",
 
@@ -915,7 +915,7 @@
     "sante_create_1022": "Vous pouvez récupérer le “Code entreprise” en contactant votre RH",
     "sante_create_1023": "Fermer",
 
-    "sante_create_1024": "Votre contrat N° {numPolice} a été ajouté avec succès.",
+    "sante_create_1024": "Votre contrat N° c{numPolice}} a été ajouté avec succès.",
     "sante_create_1025": "Terminer",
 
     "help_5001": "Le numéro de police de votre contrat automobile figure dans la zone indiquée ci-dessous",
@@ -964,14 +964,14 @@
     "sante_create_1022": "يمكنك الحصول على «رمز الشركة» عبر التواصل مع الموارد البشرية",
     "sante_create_1023": "إغلاق",
 
-    "sante_create_1024": "تمت إضافة عقدك رقم {numPolice} بنجاح.",
+    "sante_create_1024": "تمت إضافة عقدك رقم {{numPolice}} بنجاح.",
     "sante_create_1025": "إنهاء",
 
     "sante_0820": "لم يتم العثور على أي معلومات",
     "sante_0821": "يرجى الاتصال بالمسؤول للحصول على عقد",
     "sante_0822": "يرجى اختيار عقد من القائمة أدناه",
     "sante_0823": "حدث خطأ أثناء جلب العقود",
-    "sante_0824": "العقد رقم {num}",
+    "sante_0824": "العقد رقم {{num}}",
     "sante_0825": "حدث خطأ أثناء جلب العقود",
     "sante_0826": "إغلاق",
 
@@ -987,9 +987,9 @@
     "sante_0930": "تتبّع تعويضاتك",
     "sante_0931": "الخدمة غير متاحة",
     "sante_0932": "خدمتنا غير متاحة مؤقتًا. نحن نبذل قصارى جهدنا لإعادتها في أقرب وقت ممكن. شكرًا لصبرك.",
-    "sante_0933": "لم يتم العثور على أي تعويضات لسنة {year}",
-    "sante_0934": "ملف رقم {num}",
-    "sante_0935": "تم الإيداع بتاريخ {date}",
+    "sante_0933": "لم يتم العثور على أي تعويضات لسنة {{year}}",
+    "sante_0934": "ملف رقم {{num}}",
+    "sante_0935": "تم الإيداع بتاريخ {{date}}",
     "sante_0936": "المبلغ المُعوَّض:",
 
     "sante_0920": "اطّلع على تفاصيل ملفك",
@@ -1007,7 +1007,7 @@
     "sante_09143": "لم تقم بتحديد وسيلة للتعويض",
 
     "sante_0910": "إدارة عقدي",
-    "sante_0911": "رقم الانخراط {numAffiliation}",
+    "sante_0911": "رقم الانخراط {{numAffiliation}}",
     "sante_0912": "وثائق عقدي",
     "sante_0913": "طريقة التعويض",
     "sante_0900": "وثائقك المتاحة",
@@ -1175,7 +1175,7 @@
     "sante_0804": "يرجى الاتصال بوسيطك / الموارد البشرية لإكمال عملية التفعيل",
     "sante_0805": "قم بتفعيل الوصول لإكمال تسجيل عقدك",
     "sante_0806": "تفعيل",
-    "sante_0807": "تم تفعيل عقدك رقم {numPolice} بنجاح",
+    "sante_0807": "تم تفعيل عقدك رقم {{numPolice}} بنجاح",
     "sante_0808": "إنهاء",
     "sante_0809": "نشط",
     "sante_0810": "قيد الانتظار",
