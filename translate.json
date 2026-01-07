@@ -1037,9 +1037,29 @@
 
     "details_epargne_constitue": "Épargne constituée :",
     "details_cumul_versements": "Cumul versements :",
-    "details_cumul_rachats": "Cumul rachats :"
+    "details_cumul_rachats": "Cumul rachats :",
+
+    "payment_method_title_card": "RMA Cash",
+    "payment_method_title_transfer": "Virement bancaire",
+    "payment_method_title_cheque": "Chèque",
+
+    "payment_method_label_card_holder": "Titulaire de la carte",
+    "payment_method_label_card_number": "N° de la carte",
+
+    "payment_method_label_account_holder": "Titulaire du compte",
+    "payment_method_label_account_number": "Numéro de compte"
   },
   "ar": {
+    "payment_method_title_card": "RMA Cash",
+    "payment_method_title_transfer": "تحويل بنكي",
+    "payment_method_title_cheque": "شيك",
+
+    "payment_method_label_card_holder": "صاحب البطاقة",
+    "payment_method_label_card_number": "رقم البطاقة",
+
+    "payment_method_label_account_holder": "صاحب الحساب",
+    "payment_method_label_account_number": "رقم الحساب",
+
     "details_epargne_constitue": "الادخار المتراكم:",
     "details_cumul_versements": "إجمالي الإيداعات:",
     "details_cumul_rachats": "إجمالي السحوبات:",
