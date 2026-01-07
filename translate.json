@@ -1030,9 +1030,23 @@
 
     "epargne_1771": "Total des versements",
     "epargne_1772": "Versements exceptionnels",
-    "epargne_1773": "Versements périodiques"
+    "epargne_1773": "Versements périodiques",
+
+    "empty_history_title": "Votre historique est vide",
+    "empty_history_description": "Vos dernières opérations apparaîtront ici.",
+
+    "details_epargne_constitue": "Épargne constituée :",
+    "details_cumul_versements": "Cumul versements :",
+    "details_cumul_rachats": "Cumul rachats :"
   },
   "ar": {
+    "details_epargne_constitue": "الادخار المتراكم:",
+    "details_cumul_versements": "إجمالي الإيداعات:",
+    "details_cumul_rachats": "إجمالي السحوبات:",
+
+    "empty_history_title": "سجل العمليات فارغ",
+    "empty_history_description": "ستظهر عملياتك الأخيرة هنا.",
+
     "epargne_1771": "إجمالي المساهمات",
     "epargne_1772": "مساهمات استثنائية",
     "epargne_1773": "مساهمات دورية",
