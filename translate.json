@@ -1055,9 +1055,51 @@
     "confirm_language_change_title": "Changer la langue",
     "confirm_language_change_desc": "Le changement de langue nécessite le rechargement de l’application.",
     "confirm": "Confirmer",
-    "cancel": "Annuler"
+    "cancel": "Annuler",
+
+    "see_more": "Plus de détails",
+
+    "sante_reimbursement_edit_decompte": "Éditer décompte",
+    "sante_reimbursement_consult": "Consulter",
+
+    "sante_reimbursement_decompte_not_ready_title": "Le décompte n’est pas encore prêt.",
+    "sante_reimbursement_decompte_not_ready_desc": "Veuillez réessayer ultérieurement",
+
+    "sante_reimbursement_field_paid_amount": "Montant Payé",
+    "sante_reimbursement_field_decision_date": "Date de décision",
+    "sante_reimbursement_field_declaration_type": "Type de déclaration",
+
+    "sante_reimbursement_complement_letter": "Lettre de complément",
+    "sante_reimbursement_contre_visite_letter": "Convocation de contre-visite",
+    "sante_reimbursement_reject_letter": "Lettre de rejet",
+
+    "sante_reimbursement_complement_reason_title": "Motif de complément",
+    "sante_reimbursement_complement_reason_label": "Motif complément",
+    "sante_reimbursement_reject_reason_title": "Motif de rejet",
+    "sante_reimbursement_reject_reason_label": "Motif rejet"
   },
   "ar": {
+    "see_more": "مزيد من التفاصيل",
+
+    "sante_reimbursement_edit_decompte": "تعديل بيان التعويض",
+    "sante_reimbursement_consult": "عرض",
+
+    "sante_reimbursement_decompte_not_ready_title": "بيان التعويض غير جاهز بعد.",
+    "sante_reimbursement_decompte_not_ready_desc": "يرجى المحاولة لاحقًا",
+
+    "sante_reimbursement_field_paid_amount": "المبلغ المؤدى",
+    "sante_reimbursement_field_decision_date": "تاريخ القرار",
+    "sante_reimbursement_field_declaration_type": "نوع التصريح",
+
+    "sante_reimbursement_complement_letter": "رسالة استكمال الوثائق",
+    "sante_reimbursement_contre_visite_letter": "استدعاء للفحص المضاد",
+    "sante_reimbursement_reject_letter": "رسالة الرفض",
+
+    "sante_reimbursement_complement_reason_title": "سبب الاستكمال",
+    "sante_reimbursement_complement_reason_label": "سبب الاستكمال",
+    "sante_reimbursement_reject_reason_title": "سبب الرفض",
+    "sante_reimbursement_reject_reason_label": "سبب الرفض",
+
     "confirm_language_change_title": "تغيير اللغة",
     "confirm_language_change_desc": "يتطلب تغيير اللغة إعادة تشغيل التطبيق.",
     "confirm": "تأكيد",
