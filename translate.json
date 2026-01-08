@@ -1050,13 +1050,11 @@
     "payment_method_label_account_number": "Numéro de compte",
 
     "notifications_title": "Notifications",
-    "notifications_empty_title": "Votre historique est vide",
-    "notifications_empty_desc": "Vos dernières opérations apparaîtront ici."
+    "common_search": "Rechercher"
   },
   "ar": {
+    "common_search": "بحث",
     "notifications_title": "الإشعارات",
-    "notifications_empty_title": "سجلك فارغ",
-    "notifications_empty_desc": "ستظهر آخر العمليات هنا.",
 
     "payment_method_title_card": "RMA كاش",
     "payment_method_title_transfer": "تحويل بنكي",
