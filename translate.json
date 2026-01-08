@@ -1050,9 +1050,19 @@
     "payment_method_label_account_number": "Numéro de compte",
 
     "notifications_title": "Notifications",
-    "common_search": "Rechercher"
+    "common_search": "Rechercher",
+
+    "confirm_language_change_title": "Changer la langue",
+    "confirm_language_change_desc": "Le changement de langue nécessite le rechargement de l’application.",
+    "confirm": "Confirmer",
+    "cancel": "Annuler"
   },
   "ar": {
+    "confirm_language_change_title": "تغيير اللغة",
+    "confirm_language_change_desc": "يتطلب تغيير اللغة إعادة تشغيل التطبيق.",
+    "confirm": "تأكيد",
+    "cancel": "إلغاء",
+
     "common_search": "بحث",
     "notifications_title": "الإشعارات",
 
