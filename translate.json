@@ -1047,10 +1047,18 @@
     "payment_method_label_card_number": "N° de la carte",
 
     "payment_method_label_account_holder": "Titulaire du compte",
-    "payment_method_label_account_number": "Numéro de compte"
+    "payment_method_label_account_number": "Numéro de compte",
+
+    "notifications_title": "Notifications",
+    "notifications_empty_title": "Votre historique est vide",
+    "notifications_empty_desc": "Vos dernières opérations apparaîtront ici."
   },
   "ar": {
-    "payment_method_title_card": "RMA Cash",
+    "notifications_title": "الإشعارات",
+    "notifications_empty_title": "سجلك فارغ",
+    "notifications_empty_desc": "ستظهر آخر العمليات هنا.",
+
+    "payment_method_title_card": "RMA كاش",
     "payment_method_title_transfer": "تحويل بنكي",
     "payment_method_title_cheque": "شيك",
 
