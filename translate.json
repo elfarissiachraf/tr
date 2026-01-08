@@ -1076,9 +1076,12 @@
     "sante_reimbursement_complement_reason_title": "Motif de complément",
     "sante_reimbursement_complement_reason_label": "Motif complément",
     "sante_reimbursement_reject_reason_title": "Motif de rejet",
-    "sante_reimbursement_reject_reason_label": "Motif rejet"
+    "sante_reimbursement_reject_reason_label": "Motif rejet",
+
+    "sante_reimbursement_amount_dhs": "{{amount}} Dhs"
   },
   "ar": {
+    "sante_reimbursement_amount_dhs": "{{amount}} درهم",
     "see_more": "مزيد من التفاصيل",
 
     "sante_reimbursement_edit_decompte": "تعديل بيان التعويض",
