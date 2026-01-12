@@ -1078,9 +1078,39 @@
     "sante_reimbursement_reject_reason_title": "Motif de rejet",
     "sante_reimbursement_reject_reason_label": "Motif rejet",
 
-    "sante_reimbursement_amount_dhs": "{{amount}} Dhs"
+    "sante_reimbursement_amount_dhs": "{{amount}} Dhs",
+
+    "reset_password_title": "Mot de passe oublié",
+    "new_device_title": "Changement de dispositif",
+
+    "error_generic_title": "Une erreur est survenue",
+    "error_rooted_device_desc": "Vous ne pouvez pas utiliser l'application sur un appareil rooté.",
+
+    "onboarding_auto_title": "Espace Automobile",
+    "onboarding_auto_desc": "Gérez vos contrats et déclarez vos sinistres en toute simplicité",
+    "onboarding_sante_title": "Espace Santé",
+    "onboarding_sante_desc": "Accédez à vos remboursements et suivez vos soins santé, tout en un endroit",
+    "onboarding_epargne_title": "Espace Épargne",
+    "onboarding_epargne_desc": "Gérez votre épargne en toute simplicité",
+    "onboarding_skip": "Passer",
+    "onboarding_start": "Commencez"
   },
   "ar": {
+    "onboarding_auto_title": "فضاء السيارة",
+    "onboarding_auto_desc": "أدر عقودك وصرّح بحوادثك بكل سهولة",
+    "onboarding_sante_title": "فضاء الصحة",
+    "onboarding_sante_desc": "اطّلع على تعويضاتك وتابع رعايتك الصحية في مكان واحد",
+    "onboarding_epargne_title": "فضاء الادخار",
+    "onboarding_epargne_desc": "أدر مدخراتك بكل سهولة",
+    "onboarding_skip": "تخطي",
+    "onboarding_start": "ابدأ",
+
+    "error_generic_title": "حدث خطأ ما",
+    "error_rooted_device_desc": "لا يمكنك استخدام التطبيق على جهاز تم عمل روت له.",
+
+    "reset_password_title": "نسيت كلمة المرور",
+    "new_device_title": "تغيير الجهاز",
+
     "sante_reimbursement_amount_dhs": "{{amount}} درهم",
     "see_more": "مزيد من التفاصيل",
 
